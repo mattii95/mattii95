@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
 <h3 align="center">Soy apasionado a la tecnología 👨‍💻 y los videojuegos 🎮. Fanático de Marvel y Game Of Thrones 🐺</h3>
 
-- 🌱 I’m currently learning **Asp.net Core, Flutter**
+- 🌱 I’m currently learning **Angular, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://mattii95.github.io/MatiasCourroux.github.io/](https://mattii95.github.io/MatiasCourroux.github.io/)
 
