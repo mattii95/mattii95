@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías</h1>
-<h3 align="center">Soy PHP Developer</h3>
+<h3 align="center">I'm PHP Developer</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 I’m currently learning **PHP and React**
 
 - 👨‍💻 All of my projects are available at [https://mattii95.github.io/MatiasCourroux.github.io/](https://mattii95.github.io/MatiasCourroux.github.io/)
 
