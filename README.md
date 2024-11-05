@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **PHP and React**
 
-- 👨‍💻 All of my projects are available at [https://mattii95.github.io/MatiasCourroux.github.io/](https://mattii95.github.io/MatiasCourroux.github.io/)
-
 - 📫 How to reach me **mcourroux@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
